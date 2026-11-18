@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D97706&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Developer;Node.js+%C2%B7+NestJS+%C2%B7+React+%C2%B7+Next.js;I+build+AI-powered+products+that+run+in+production;Open+to+remote+Full-Stack+%26+AI+Engineering+roles" alt="Typing animation" />
 </a>
 
-📍 San Miguel de Tucumán, Argentina &nbsp;·&nbsp; 🗣️ Spanish (native) · English (advanced) &nbsp;·&nbsp; 📫 [leaarevalotuc@gmail.com](mailto:leaarevalotuc@gmail.com)
+📍 San Miguel de Tucumán, Argentina &nbsp;·&nbsp; 🗣️ Spanish (native) · English (advanced) &nbsp;·&nbsp; 📫 [leaarevalotuc@gmail.com](mailto:leaarevalotuc@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/leaarevalo/)
 
 </div>
 
@@ -130,7 +130,7 @@ Engaged through ACID Labs (2021–2025) and Qurable (2025–present).
 
 <div align="center">
 
-**Open to remote Full-Stack and AI Engineering roles.** &nbsp; 📫 [Let's talk](mailto:leaarevalotuc@gmail.com)
+**Open to remote Full-Stack and AI Engineering roles.** &nbsp; 📫 [Email](mailto:leaarevalotuc@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/leaarevalo/)
 
 <img src="https://komarev.com/ghpvc/?username=leaarevalo&label=Profile+views&color=D97706&style=flat" alt="Profile views" />
 
