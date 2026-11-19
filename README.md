@@ -117,17 +117,6 @@ Engaged through ACID Labs (2021–2025) and Qurable (2025–present).
 
 ---
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leaarevalo&show_icons=true&theme=transparent&title_color=D97706&icon_color=D97706&text_color=8b949e&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaarevalo&layout=compact&theme=transparent&title_color=D97706&text_color=8b949e&hide_border=true" alt="Top languages" />
-</p>
-
-<sub>Stats include private contributions only if enabled in the profile settings.</sub>
-
----
-
 <div align="center">
 
 **Open to remote Full-Stack and AI Engineering roles.** &nbsp; 📫 [Email](mailto:leaarevalotuc@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/leaarevalo/)
